@@ -1,0 +1,600 @@
+Name (Optional),Gender,Address,Profession,Education,Heard e-gov,Know e-gov Target of Nepal,Org sector of local level,Gender Sector,Age Group,Heighest Qualification,No. of employee in Organization,your org participating in e-gov (years),does your organization have strategy on e-gov,use of e-goverance reduces overall cost of organization (i),use of e-goverance improves productivity and increase capacity of government (ii),use of e-goverance improve collaboration among different departments (iii),"use of e-goverance improves accounttability, transparancy and anty-corruption (iv)","use of e-goverance have information threat that is identity theft, unstable network (v)",use of e-goverance will lead to misuse of government services (vi),e-governance needs higher level of knowledge among employees (vii),It need huge inverstment in participating in e-governance (viii),Do you think that there will a caltural barrier while  implementing e-governance (ix),Political support id important for e-governance implementation (x),ICT infrastructure plays important role in e-governance (xi),Leadership role is important for motivation and support to implement e-governance (xii),It needs more technical skills to implement e-governance (xiii),It Needs Lot of Training and setup cost (xiv),Organizational (EF 1),Political (EF 2),Economical (EF 3),Legal (EF 4),Geographical (EF 5),Cultural (EF 6),Leadership/ Management Capacity (IF 1),Financial matter (IF 2),Goal/ Objective (IF 3),Attitude (IF 4),Network Colleboration (IF 5)
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,nan,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,nan,4,4,5,1,3,3,3,4,nan,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,SLC,no,no,administrative,m,26 to 35,SLC,11 to 50,1 to 2,no,1,4,1,5,2,2,3,5,4,4,5,nan,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,nan,3,nan,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,51 to 100,1 to 2,no,nan,1,1,2,1,2,4,5,2,1,5,2,nan,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,nan,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,nan,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,Graduate,no,no,Agriculture,f,36 to 45,Graduate,11 to 50,1 to 2,yes,1,4,nan,5,2,2,3,5,4,4,5,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,Agriculture,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,4,5,4,3,nan,2,4,nan,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,SLC,yes,no,Agriculture,f,36 to 45,SLC,51 TO 100,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,Agriculture,f,26 to 35,SLC,11 to 50,2 to 5 ,no,nan,4,1,nan,2,2,nan,5,4,4,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,yes,yes,other,f,26 to 35,Graduate,51 to 100,2 to 5 ,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,yes,no,Agriculture,f,36 to 45,intermediate,51 to 100,2 to 5 ,no,5,5,4,5,nan,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,no,no,medical,f,36 to 45,Above Graduate,11 to 50,1 to 2,yes,nan,nan,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,46 to 55,Graduate,11 to 50,2 to 5 ,no,5,4,nan,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,11 to 50,1 to 2,yes,3,5,4,5,2,2,4,2,2,5,4,nan,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,51 to 100,2 to 5 ,yes,3,4,3,5,4,nan,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,no,no,medical,f,36 to 45,Above Graduate,11 to 50,2 to 5 ,no,2,1,1,2,1,2,4,5,2,nan,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,46 to 55,Above Graduate,51 to 100,1 to 2,no,3,nan,4,4,3,2,2,nan,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,36 to 45,Graduate,11 to 50,2 to 5 ,yes,nan,3,nan,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,no,no,medical,m,26 to 35,Graduate,51 to 100,2 to 5 ,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,other,m,26 to 35,Above Graduate,51 to 100,1 to 2,no,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,SLC,yes,no,Education,m,36 to 45,SLC,11 to 50,2 to 5 ,no,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,other,f,26 to 35,SLC,51 to 100,2 to 5 ,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,Agriculture,m,26 to 35,Graduate,11 to 50,1 to 2,no,3,5,4,5,2,2,4,2,2,5,4,5,nan,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,no,no,other,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,3,nan,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,yes,yes,Education,m,46 to 55,Above Graduate,51 to 100,1 to 2,no,nan,4,4,4,1,2,3,5,2,4,nan,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,11 to 50,5 to 10,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,Education,m,26 to 35,Above Graduate,101 to 500,5 to 10,yes,3,5,5,nan,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,yes,yes,Agriculture,f,36 to 45,Above Graduate,51 to 100,5 to 10,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Above Graduate,yes,yes,Education,f,46 to 55,Above Graduate,51 to 100,2 to 5 ,yes,5,nan,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,intermediate,no,no,Education,m,26 to 35,intermediate,11 to 50,1 to 2,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,nan,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,51 TO 100,1 to 2,yes,3,4,2,nan,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,no,nan,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,no,no,medical,f,36 to 45,Above Graduate,11 to 50,2 to 5 ,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,nan,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,1 to 2,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,nan,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,intermediate,yes,yes,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,no,nan,5,4,3,nan,1,nan,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,Education,f,26 to 35,Above Graduate,51 to 100,1 to 2,yes,3,3,3,2,2,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,medical,m,36 to 45,Graduate,51 to 100,1 to 2,no,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,yes,no,Education,f,26 to 35,SLC,11 to 50,5 to 10,yes,5,5,4,5,4,nan,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,no,no,Education,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,51 to 100,5 to 10,yes,5,4,4,5,1,3,3,3,4,4,5,nan,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,nan,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,intermediate,yes,yes,Education,f,46 to 55,intermediate,51 to 100,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,no,no,Education,m,26 to 35,intermediate,11 to 50,1 to 2,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,intermediate,yes,yes,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,yes,nan,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,Education,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,3,1,5,5,3,nan,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,nan,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,36 to 45,SLC,11 to 50,1 to 2,no,nan,1,nan,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,other,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,4,2,4,2,2,4,4,2,4,nan,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,Education,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,11 to 50,1 to 2,no,3,5,4,5,2,2,4,2,nan,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,SLC,yes,no,Education,f,26 to 35,SLC,11 to 50,1 to 2,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,no,no,Education,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,5,4,nan,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,11 to 50,1 to 2,no,nan,4,1,5,2,2,3,5,4,4,5,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,51 to 100,5 to 10,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,Education,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,Education,f,26 to 35,SLC,11 to 50,1 to 2,no,1,4,1,5,2,2,nan,5,4,4,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,nan,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,nan,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,11 to 50,2 to 5 ,yes,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,yes,medical,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,nan,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,nan,5,2,4,4,nan,3,nan,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,no,no,administrative,m,26 to 35,intermediate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,nan,nan,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,nan,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,yes,yes,medical,m,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,SLC,no,no,administrative,m,26 to 35,SLC,11 to 50,2 to 5 ,yes,3,5,4,5,2,2,4,2,2,5,4,5,nan,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,medical,m,46 to 55,Graduate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,3,3,5,3,nan,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,nan,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,46 to 55,Above Graduate,51 to 100,1 to 2,no,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,11 to 50,5 to 10,yes,3,nan,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Above Graduate,no,no,administrative,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,nan,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,other,m,36 to 45,Above Graduate,51 to 100,5 to 10,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,46 to 55,Above Graduate,51 to 100,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,3,3,2,2,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,46 to 55,Above Graduate,11 to 50,2 to 5 ,no,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,51 TO 100,1 to 2,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,yes,no,medical,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,nan,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,yes,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,no,no,medical,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,nan,5,nan,4,4,nan,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,no,3,3,nan,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,1 to 2,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,SLC,yes,no,administrative,m,26 to 35,SLC,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,no,no,Education,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,nan,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,5 to 10,yes,5,4,4,5,1,3,3,3,4,nan,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,intermediate,yes,yes,administrative,f,46 to 55,intermediate,51 to 100,2 to 5 ,yes,3,4,3,nan,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,nan,nan,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,intermediate,no,no,administrative,m,26 to 35,intermediate,11 to 50,1 to 2,no,5,4,nan,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,51 to 100,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,nan,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,no,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,11 to 50,1 to 2,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,Education,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,11 to 50,2 to 5 ,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,36 to 45,SLC,11 to 50,1 to 2,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,11 to 50,1 to 2,no,1,4,1,5,2,2,3,5,4,4,5,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,51 to 100,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,26 to 35,Above Graduate,51 to 100,1 to 2,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,SLC,yes,no,administrative,f,26 to 35,SLC,11 to 50,1 to 2,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,no,no,administrative,m,26 to 35,Graduate,51 to 100,1 to 2,yes,5,5,1,5,4,2,3,nan,2,4,4,3,4,nan,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,51 to 100,1 to 2,no,1,4,1,5,2,2,3,5,4,4,5,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,medical,m,36 to 45,Graduate,51 to 100,5 to 10,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,3,3,2,2,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,f,,Public Servent,intermediate,yes,yes,administrative,f,46 to 55,intermediate,51 to 100,2 to 5 ,no,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,5,4,4,5,1,3,3,3,4,4,nan,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,nan,4,5,nan,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,SLC,no,no,medical,f,26 to 35,SLC,11 to 50,1 to 2,no,1,4,1,5,2,2,3,5,4,4,5,3,3,3,2,3,3,4,3,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,11 to 50,1 to 2,yes,3,5,nan,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,nan,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,yes,yes,other,f,46 to 55,intermediate,51 to 100,2 to 5 ,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,4,4,5,1,3,3,3,4,4,5,3,4,nan,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,SLC,no,no,medical,m,26 to 35,SLC,11 to 50,2 to 5 ,yes,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,3,5,nan,2,3,nan,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,other,f,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,4,4,3,3,2,nan,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,nan,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,101 to 500,5 to 10,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,Education,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,yes,5,5,4,5,4,nan,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,yes,yes,Education,m,46 to 55,Above Graduate,51 to 100,1 to 2,no,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,Education,m,26 to 35,Graduate,11 to 50,5 to 10,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Above Graduate,no,no,Education,m,26 to 35,Above Graduate,101 to 500,5 to 10,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,yes,yes,Education,f,36 to 45,Above Graduate,51 to 100,5 to 10,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Above Graduate,yes,yes,Education,f,46 to 55,Above Graduate,51 to 100,2 to 5 ,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,intermediate,no,no,Education,m,26 to 35,intermediate,11 to 50,1 to 2,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,nan,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,medical,m,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,51 TO 100,1 to 2,yes,3,4,nan,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,no,5,5,4,5,4,2,5,3,1,5,5,nan,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,no,no,other,m,36 to 45,Above Graduate,11 to 50,2 to 5 ,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,51 to 100,2 to 5 ,yes,5,5,1,5,nan,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,no,no,administrative,m,26 to 35,Above Graduate,11 to 50,1 to 2,no,5,5,4,3,1,1,2,4,4,4,nan,4,nan,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,Education,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,3,3,2,2,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,f,,Public Servent,intermediate,yes,yes,Education,f,36 to 45,intermediate,51 to 100,1 to 2,no,3,4,2,4,4,2,4,3,2,5,5,3,2,nan,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,26 to 35,Graduate,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,below SLC,no,no,administrative,m,m,below SLC,no,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,Education,f,36 to 45,Above Graduate,51 to 100,5 to 10,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,no,Agriculture,m,46 to 55,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,SLC,yes,yes,Education,m,46 to 55,SLC,51 to 100,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,nan,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,no,no,Education,m,26 to 35,Graduate,11 to 50,1 to 2,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,5,4,nan,3,2,2,nan,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,no,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,no,3,3,3,5,nan,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,f,,Public Servent,intermediate,yes,no,Education,f,36 to 45,intermediate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,Education,m,26 to 35,intermediate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,intermediate,yes,yes,administrative,f,46 to 55,intermediate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,no,no,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,no,other,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,nan,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,SLC,yes,no,Education,m,36 to 45,SLC,11 to 50,2 to 5 ,no,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,yes,no,Education,f,26 to 35,intermediate,11 to 50,2 to 5 ,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,11 to 50,1 to 2,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,Graduate,yes,no,Education,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,nan,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Graduate,no,no,Education,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Above Graduate,yes,yes,other,f,36 to 45,Above Graduate,51 to 100,5 to 10,yes,3,5,4,4,3,2,2,5,2,4,4,3,nan,nan,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,51 to 100,5 to 10,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,SLC,yes,no,Education,f,46 to 55,SLC,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,nan,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,46 to 55,Graduate,51 to 100,2 to 5 ,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,yes,Agriculture,m,26 to 35,Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,administrative,m,36 to 45,intermediate,11 to 50,2 to 5 ,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,yes,medical,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,3,5,4,nan,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,no,no,administrative,m,36 to 45,Above Graduate,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,nan,5,1,2,3,4,5,6,1,2,3,1,5,4
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,SLC,no,no,other,m,26 to 35,SLC,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,yes,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,nan,2,nan,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,yes,no,administrative,f,36 to 45,intermediate,11 to 50,2 to 5 ,no,5,nan,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,no,no,other,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,36 to 45,Above Graduate,51 to 100,1 to 2,no,5,5,4,3,1,1,nan,4,nan,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,no,no,administrative,f,36 to 45,Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,SLC,yes,yes,administrative,m,46 to 55,SLC,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,medical,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,below SLC,yes,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,51 to 100,1 to 2,no,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,intermediate,yes,no,medical,f,26 to 35,intermediate,11 to 50,5 to 10,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,no,no,other,m,26 to 35,Graduate,51 to 100,1 to 2,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,5 to 10,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,36 to 45,Above Graduate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,51 to 100,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Above Graduate,no,no,administrative,f,26 to 35,Above Graduate,101 to 500,5 to 10,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,Education,m,26 to 35,intermediate,11 to 50,1 to 2,yes,5,4,3,5,3,1,3,2,4,4,5,3,nan,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,46 to 55,Graduate,11 to 50,2 to 5 ,no,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,5,5,nan,5,4,2,3,5,2,4,nan,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,yes,5,5,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,no,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,2,4,3,2,nan,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,36 to 45,Above Graduate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,nan,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,no,administrative,f,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,other,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,no,no,administrative,f,26 to 35,Above Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,no,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,26 to 35,Above Graduate,51 to 100,2 to 5 ,yes,3,4,4,4,1,2,3,nan,2,4,4,2,4,nan,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,intermediate,yes,yes,administrative,m,36 to 45,intermediate,51 to 100,1 to 2,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,5 to 10,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,nan,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,36 to 45,Above Graduate,51 to 100,5 to 10,yes,5,5,nan,nan,nan,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,no,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,f,,Public Servent,SLC,yes,yes,administrative,f,46 to 55,SLC,51 to 100,2 to 5 ,yes,3,3,3,2,2,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,m,,Public Servent,Graduate,no,no,other,m,26 to 35,Graduate,11 to 50,1 to 2,no,3,4,2,4,4,nan,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,nan,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,no,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,no,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,11 to 50,1 to 2,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,intermediate,yes,no,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,4,5,nan,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,intermediate,yes,no,Education,m,26 to 35,intermediate,11 to 50,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,yes,yes,administrative,f,46 to 55,intermediate,11 to 50,2 to 5 ,yes,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,intermediate,yes,yes,administrative,f,46 to 55,intermediate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,other,f,36 to 45,Graduate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,medical,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,SLC,yes,no,administrative,m,36 to 45,SLC,11 to 50,2 to 5 ,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,f,,Public Servent,intermediate,yes,no,administrative,f,26 to 35,intermediate,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,nan,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,no,medical,f,26 to 35,Graduate,11 to 50,1 to 2,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,no,no,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,36 to 45,Above Graduate,51 to 100,5 to 10,no,5,4,4,5,1,3,3,3,nan,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,51 to 100,5 to 10,yes,3,5,4,5,2,2,4,2,2,5,4,nan,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,SLC,yes,no,other,m,46 to 55,SLC,11 to 50,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,51 to 100,2 to 5 ,no,5,4,4,3,3,2,4,nan,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,1,4,1,5,2,2,3,5,4,4,5,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,51 TO 100,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,administrative,m,36 to 45,intermediate,11 to 50,2 to 5 ,no,1,4,nan,5,2,2,3,5,4,4,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,no,no,other,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,51 to 100,2 to 5 ,no,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,no,no,medical,f,36 to 45,Above Graduate,11 to 50,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,nan,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,11 to 50,1 to 2,yes,3,5,4,5,nan,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,intermediate,yes,yes,administrative,f,46 to 55,intermediate,51 to 100,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,other,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,SLC,no,no,administrative,m,26 to 35,SLC,11 to 50,1 to 2,no,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,51 to 100,2 to 5 ,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,1 to 2,no,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,4,2,nan,2,2,4,4,2,4,5,3,2,nan,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,Education,f,46 to 55,Above Graduate,51 to 100,2 to 5 ,yes,5,4,4,5,1,3,3,3,4,nan,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,intermediate,no,no,Education,m,26 to 35,intermediate,11 to 50,1 to 2,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,Education,m,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,5,5,4,3,1,1,nan,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,other,m,26 to 35,Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,medical,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Above Graduate,yes,yes,medical,m,36 to 45,Above Graduate,51 to 100,1 to 2,no,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,medical,m,36 to 45,Above Graduate,11 to 50,5 to 10,yes,3,3,3,5,3,nan,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,no,medical,m,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,51 to 100,5 to 10,yes,5,5,4,5,4,2,5,3,1,5,5,3,nan,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,medical,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,51 to 100,2 to 5 ,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,no,3,5,5,5,1,2,3,2,2,5,5,nan,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,no,medical,m,36 to 45,Above Graduate,11 to 50,1 to 2,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,Education,m,26 to 35,intermediate,11 to 50,2 to 5 ,yes,5,5,4,3,1,1,2,4,nan,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Above Graduate,yes,no,medical,m,26 to 35,Above Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,medical,m,36 to 45,Above Graduate,11 to 50,2 to 5 ,yes,3,3,3,2,2,4,4,3,1,3,nan,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,yes,medical,m,46 to 55,Above Graduate,51 to 100,1 to 2,no,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,other,m,26 to 35,Graduate,51 to 100,1 to 2,yes,5,nan,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,no,no,Education,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,medical,f,36 to 45,Above Graduate,51 to 100,5 to 10,yes,5,4,4,5,1,3,3,nan,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,intermediate,no,no,Education,f,26 to 35,intermediate,51 to 100,1 to 2,no,3,4,3,5,nan,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,medical,m,26 to 35,Graduate,51 to 100,1 to 2,yes,3,3,3,5,3,4,nan,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,yes,no,medical,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,nan,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,yes,no,Education,f,26 to 35,intermediate,11 to 50,1 to 2,no,5,5,4,5,4,2,5,3,1,5,5,3,5,nan,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,yes,medical,f,36 to 45,Above Graduate,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,yes,no,medical,m,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,51 to 100,5 to 10,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,no,medical,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,51 to 100,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,no,2,nan,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,intermediate,yes,no,Education,m,26 to 35,intermediate,11 to 50,1 to 2,yes,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Above Graduate,no,no,medical,f,26 to 35,Above Graduate,51 to 100,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,medical,m,26 to 35,intermediate,11 to 50,1 to 2,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,intermediate,yes,no,Education,f,26 to 35,intermediate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,nan,4,nan,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,medical,m,46 to 55,Above Graduate,51 to 100,1 to 2,no,5,5,4,3,1,1,2,4,4,4,nan,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,medical,m,26 to 35,Graduate,11 to 50,5 to 10,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,no,no,Education,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,medical,f,36 to 45,Above Graduate,51 to 100,5 to 10,yes,5,4,4,4,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,no,Agriculture,m,36 to 45,Graduate,11 to 50,1 to 2,yes,1,4,1,5,2,2,3,5,4,4,5,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,Agriculture,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,4,5,nan,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,SLC,yes,no,Agriculture,m,36 to 45,SLC,51 TO 100,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,SLC,no,no,Agriculture,m,26 to 35,SLC,11 to 50,2 to 5 ,no,1,4,1,5,2,2,3,nan,4,4,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,yes,other,m,26 to 35,Graduate,51 to 100,2 to 5 ,yes,3,nan,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,yes,no,Agriculture,f,36 to 45,intermediate,51 to 100,2 to 5 ,no,5,5,4,5,4,2,nan,5,3,5,4,4,nan,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,below SLC,no,no,Agriculture,m,36 to 45,below SLC,11 to 50,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,nan,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,SLC,yes,yes,Agriculture,m,46 to 55,SLC,11 to 50,2 to 5 ,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,intermediate,no,no,Agriculture,f,26 to 35,intermediate,11 to 50,1 to 2,yes,3,5,4,5,2,nan,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,intermediate,yes,no,administrative,m,26 to 35,intermediate,51 to 100,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,no,no,medical,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Above Graduate,yes,yes,Agriculture,m,46 to 55,Above Graduate,51 to 100,1 to 2,no,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,below SLC,no,no,Agriculture,f,36 to 45,below SLC,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,no,no,medical,m,26 to 35,Above Graduate,51 to 100,2 to 5 ,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,yes,yes,other,m,26 to 35,below SLC,51 to 100,1 to 2,no,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,4,2,4,2,2,4,4,nan,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,51 to 100,2 to 5 ,yes,5,4,4,5,1,3,3,3,4,4,5,nan,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,Agriculture,m,26 to 35,Graduate,11 to 50,1 to 2,no,3,5,4,5,nan,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,intermediate,yes,no,Agriculture,m,36 to 45,intermediate,11 to 50,2 to 5 ,yes,5,4,4,3,3,2,4,5,2,nan,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,below SLC,no,no,Agriculture,f,36 to 45,below SLC,51 to 100,1 to 2,no,2,1,1,2,1,2,4,5,2,1,nan,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,SLC,no,no,administrative,m,46 to 55,SLC,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,no,no,Agriculture,m,26 to 35,intermediate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,Agriculture,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,Education,f,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,SLC,yes,yes,Agriculture,m,46 to 55,SLC,51 to 100,1 to 2,no,3,4,4,2,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,below SLC,no,no,Education,m,36 to 45,below SLC,11 to 50,5 to 10,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,intermediate,no,no,Agriculture,m,26 to 35,intermediate,11 to 50,2 to 5 ,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,nan,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,yes,other,m,46 to 55,Above Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,below SLC,no,no,Agriculture,f,36 to 45,below SLC,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,nan,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,no,no,medical,m,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,yes,yes,Agriculture,m,26 to 35,below SLC,11 to 50,2 to 5 ,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,1 to 2,no,1,4,1,5,2,2,3,5,4,4,5,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,11 to 50,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,4,4,3,3,2,4,5,nan,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,26 to 35,Above Graduate,51 to 100,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,intermediate,yes,yes,Education,m,36 to 45,intermediate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,36 to 45,Above Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,medical,m,46 to 55,Graduate,51 to 100,1 to 2,no,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,f,,Public Servent,SLC,yes,yes,administrative,f,46 to 55,SLC,11 to 50,5 to 10,yes,5,4,3,5,3,1,3,2,4,nan,5,3,nan,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Graduate,no,no,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,51 to 100,5 to 10,yes,5,5,1,5,nan,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,nan,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,no,other,f,36 to 45,Graduate,51 to 100,2 to 5 ,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,Education,f,26 to 35,Above Graduate,11 to 50,1 to 2,no,5,4,4,3,3,2,4,nan,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,36 to 45,SLC,51 to 100,1 to 2,yes,3,3,3,5,3,4,4,5,nan,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,51 to 100,1 to 2,yes,3,4,2,nan,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,yes,no,Education,f,36 to 45,Graduate,101 to 500,5 to 10,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,5,5,5,1,2,3,2,2,5,nan,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,11 to 50,1 to 2,no,5,5,4,3,1,1,nan,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,other,m,36 to 45,Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,SLC,no,no,administrative,m,26 to 35,SLC,11 to 50,2 to 5 ,yes,3,3,3,nan,2,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,51 to 100,1 to 2,no,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,nan,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,101 to 500,5 to 10,yes,5,4,4,5,1,nan,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,2 to 5 ,no,3,5,4,5,2,2,4,2,nan,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,26 to 35,Graduate,51 to 100,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,Education,m,36 to 45,intermediate,11 to 50,1 to 2,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Above Graduate,yes,yes,Education,m,46 to 55,Above Graduate,51 to 100,1 to 2,yes,3,5,4,nan,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,51 to 100,1 to 2,no,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,no,no,Education,m,26 to 35,Above Graduate,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,yes,Education,f,36 to 45,Above Graduate,101 to 500,5 to 10,yes,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,51 to 100,5 to 10,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,5,nan,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,51 to 100,2 to 5 ,no,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,SLC,no,no,administrative,m,26 to 35,SLC,51 to 100,1 to 2,yes,5,nan,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,other,m,26 to 35,Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,administrative,m,36 to 45,intermediate,51 to 100,2 to 5 ,no,3,3,3,2,2,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,other,m,26 to 35,Graduate,51 to 100,1 to 2,yes,3,3,3,2,2,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,46 to 55,Above Graduate,11 to 50,2 to 5 ,no,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,51 TO 100,1 to 2,yes,5,5,4,nan,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,yes,no,Education,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,Above Graduate,yes,no,medical,f,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,nan,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,yes,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,nan,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,51 to 100,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,1 to 2,yes,5,5,4,5,4,2,5,nan,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,SLC,yes,no,administrative,m,26 to 35,SLC,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,5,3,nan,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,51 to 100,2 to 5 ,yes,3,4,2,4,nan,2,4,4,2,4,nan,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,no,no,Education,m,26 to 35,Above Graduate,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,yes,Education,f,36 to 45,Above Graduate,101 to 500,5 to 10,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,51 to 100,5 to 10,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,no,1,4,1,5,2,2,3,5,4,4,5,5,2,nan,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,51 to 100,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,SLC,no,no,administrative,m,26 to 35,SLC,51 to 100,1 to 2,yes,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,other,m,26 to 35,Graduate,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,intermediate,yes,no,administrative,m,36 to 45,intermediate,51 to 100,2 to 5 ,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,other,m,26 to 35,Graduate,51 to 100,1 to 2,yes,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,46 to 55,Above Graduate,11 to 50,2 to 5 ,no,3,4,4,4,1,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,51 TO 100,1 to 2,yes,5,4,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,Education,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,5,5,5,1,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Above Graduate,yes,no,medical,f,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,5,nan,2,4,3,nan,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,yes,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,51 to 100,1 to 2,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,nan,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,1 to 2,yes,3,5,4,5,2,2,4,2,2,5,nan,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,SLC,yes,no,administrative,m,26 to 35,SLC,11 to 50,5 to 10,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,51 to 100,2 to 5 ,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Above Graduate,no,no,Education,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,medical,f,36 to 45,Above Graduate,51 to 100,5 to 10,yes,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,11 to 50,2 to 5 ,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,medical,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,1,4,1,5,2,2,3,5,4,4,5,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,11 to 50,1 to 2,yes,3,4,3,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,intermediate,no,no,administrative,m,26 to 35,intermediate,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,yes,medical,m,26 to 35,Above Graduate,51 TO 100,1 to 2,no,3,5,4,5,2,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,11 to 50,2 to 5 ,yes,1,4,1,5,2,2,3,5,4,4,5,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,SLC,no,no,administrative,m,26 to 35,SLC,11 to 50,2 to 5 ,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,1,4,1,5,2,2,3,5,4,4,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,11 to 50,1 to 2,yes,3,4,2,4,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,medical,m,46 to 55,Graduate,11 to 50,2 to 5 ,no,5,nan,4,5,nan,2,5,nan,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,yes,3,3,3,5,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,46 to 55,Above Graduate,51 to 100,1 to 2,no,5,5,4,5,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,3,5,4,nan,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,no,2,1,1,2,1,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,5,4,4,3,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,no,3,3,3,5,3,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,SLC,no,no,administrative,m,26 to 35,SLC,11 to 50,1 to 2,yes,3,4,2,4,4,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,Education,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,36 to 45,Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,no,5,4,4,5,1,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,5,4,5,2,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,5,4,3,1,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Graduate,yes,no,Agriculture,f,36 to 45,Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,Agriculture,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,SLC,yes,no,Agriculture,f,36 to 45,SLC,11 to 50,1 to 2,yes,3,5,4,4,3,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,f,,Public Servent,SLC,no,no,Agriculture,f,26 to 35,SLC,11 to 50,1 to 2,yes,3,3,3,nan,nan,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,other,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,f,,Public Servent,intermediate,yes,no,Agriculture,f,36 to 45,intermediate,51 to 100,1 to 2,no,5,5,4,5,4,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,no,no,medical,f,36 to 45,Above Graduate,11 to 50,5 to 10,yes,3,4,4,4,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,Education,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,5,4,3,5,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,51 to 100,5 to 10,yes,3,5,5,5,1,4,4,3,1,3,3,4,4,3,4,1,3,2,5,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,no,no,medical,f,36 to 45,Above Graduate,51 to 100,2 to 5 ,no,5,5,4,nan,1,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,46 to 55,Above Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,36 to 45,Graduate,11 to 50,1 to 2,yes,3,3,3,2,2,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,no,no,medical,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,3,4,2,4,4,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Above Graduate,yes,yes,other,m,26 to 35,Above Graduate,51 TO 100,1 to 2,yes,5,5,4,5,4,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,SLC,yes,no,Education,m,36 to 45,SLC,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,SLC,no,no,other,f,26 to 35,SLC,11 to 50,2 to 5 ,yes,5,4,4,5,1,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Agriculture,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,other,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,3,5,4,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,Education,m,46 to 55,Above Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,below SLC,no,no,administrative,f,36 to 45,below SLC,11 to 50,1 to 2,no,3,3,3,5,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,Education,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,f,,Public Servent,Above Graduate,yes,yes,Agriculture,f,36 to 45,Above Graduate,51 to 100,1 to 2,yes,5,5,4,5,4,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,5 to 10,yes,5,5,4,5,4,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,f,,Public Servent,Above Graduate,yes,yes,Education,f,46 to 55,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,intermediate,no,no,Education,m,26 to 35,intermediate,51 to 100,5 to 10,yes,5,4,4,5,1,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,no,3,5,4,5,2,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,46 to 55,Above Graduate,51 to 100,2 to 5 ,yes,3,4,3,2,4,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,1 to 2,no,2,1,1,2,1,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,26 to 35,Above Graduate,11 to 50,1 to 2,no,5,4,4,3,3,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,f,,Public Servent,Above Graduate,no,no,medical,f,36 to 45,Above Graduate,51 to 100,2 to 5 ,yes,3,5,4,4,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,no,3,3,3,5,3,nan,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,46 to 55,Above Graduate,11 to 50,1 to 2,yes,5,5,1,5,4,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,intermediate,yes,yes,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,no,5,5,4,3,1,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,2,4,3,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,1 to 2,no,5,4,4,3,3,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,Education,f,26 to 35,Above Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,yes,medical,m,36 to 45,Graduate,11 to 50,1 to 2,no,1,4,1,5,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,yes,no,Education,f,26 to 35,SLC,51 to 100,2 to 5 ,yes,3,4,2,4,4,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,no,no,Education,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,5,5,4,5,4,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,51 to 100,1 to 2,yes,3,4,4,4,1,2,3,5,4,4,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,11 to 50,1 to 2,yes,5,4,3,5,3,2,4,5,2,1,5,2,5,1,2,3,4,5,6,1,2,3,1,5,4
+,f,,Public Servent,intermediate,yes,yes,Education,f,46 to 55,intermediate,11 to 50,1 to 2,yes,3,5,5,5,1,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,no,no,Education,m,26 to 35,intermediate,51 to 100,1 to 2,yes,5,5,1,5,4,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,intermediate,yes,yes,administrative,m,26 to 35,intermediate,51 to 100,1 to 2,no,1,4,1,5,2,2,4,3,2,5,5,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,51 to 100,5 to 10,yes,5,5,2,4,3,2,5,5,3,5,4,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,3,3,3,2,2,2,4,4,2,4,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,Education,f,26 to 35,Above Graduate,51 to 100,2 to 5 ,no,3,4,2,4,4,3,3,3,4,4,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,11 to 50,1 to 2,yes,5,5,4,5,4,2,4,2,2,5,4,5,2,3,5,3,3,4,2,6,4,2,1,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,36 to 45,SLC,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,no,no,administrative,f,26 to 35,intermediate,51 TO 100,1 to 2,yes,5,4,4,5,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,other,m,26 to 35,Graduate,11 to 50,2 to 5 ,no,3,5,4,3,2,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,1 to 2,no,1,4,1,5,2,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,2,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,no,Education,f,26 to 35,Above Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,4,4,5,4,3,3,2,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,3,3,5,3,2,4,2,2,5,5,1,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,yes,no,Education,f,26 to 35,SLC,11 to 50,1 to 2,yes,3,4,2,4,4,2,5,3,1,5,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,no,no,Education,m,26 to 35,Graduate,51 to 100,2 to 5 ,yes,5,5,4,5,4,2,3,5,2,4,4,2,4,4,5,1,3,4,2,6,5,2,4,3,4
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,11 to 50,1 to 2,yes,3,4,2,4,4,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,Education,m,46 to 55,Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,Education,f,26 to 35,SLC,11 to 50,2 to 5 ,no,5,4,4,5,1,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,5,4,5,2,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,yes,3,4,3,5,4,1,3,2,4,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,5,4,4,3,3,2,3,2,2,5,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,no,2,1,1,2,1,2,3,5,2,4,4,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,SLC,no,no,administrative,f,26 to 35,SLC,101 to 500,5 to 10,yes,3,5,4,4,3,1,2,4,4,4,3,4,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,11 to 50,1 to 2,no,3,3,3,5,3,2,2,2,1,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,51 to 100,5 to 10,yes,5,4,3,5,3,1,3,2,4,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,yes,no,Education,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,5,5,5,1,2,3,2,2,5,5,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,below SLC,no,no,administrative,m,36 to 45,below SLC,51 to 100,2 to 5 ,no,5,5,1,5,4,2,3,5,2,4,4,3,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Graduate,no,no,Education,m,26 to 35,Graduate,51 to 100,1 to 2,yes,5,5,4,3,1,1,2,4,4,4,3,4,2,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,yes,yes,other,f,36 to 45,Above Graduate,11 to 50,1 to 2,yes,5,5,2,4,3,2,2,2,1,4,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,yes,Education,m,36 to 45,Graduate,51 to 100,2 to 5 ,no,3,3,3,2,2,4,4,3,1,3,3,4,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,SLC,yes,no,Education,f,46 to 55,SLC,11 to 50,2 to 5 ,yes,3,4,2,4,4,nan,4,3,2,5,5,3,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Education,m,46 to 55,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,51 to 100,1 to 2,yes,3,3,3,2,2,4,4,3,1,3,3,4,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,11 to 50,2 to 5 ,no,3,4,2,4,4,2,4,3,2,5,5,3,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,Agriculture,m,26 to 35,Graduate,51 TO 100,1 to 2,yes,5,5,4,5,4,2,5,5,3,5,4,4,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,intermediate,yes,no,administrative,m,36 to 45,intermediate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,4,4,5,1,3,3,3,4,4,5,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,medical,m,26 to 35,Graduate,51 to 100,2 to 5 ,no,3,5,4,5,2,2,4,2,2,5,4,5,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,no,no,administrative,m,36 to 45,Above Graduate,11 to 50,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,46 to 55,Graduate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,SLC,no,no,other,m,26 to 35,SLC,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,26 to 35,Graduate,51 to 100,1 to 2,no,3,3,3,5,3,4,4,5,4,3,3,2,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,below SLC,yes,no,administrative,m,36 to 45,below SLC,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,yes,administrative,f,26 to 35,Graduate,51 to 100,1 to 2,yes,5,5,4,5,4,2,5,3,1,5,5,3,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,intermediate,yes,no,administrative,f,36 to 45,intermediate,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,5,3,5,4,4,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,no,no,other,m,26 to 35,Graduate,51 to 100,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,yes,yes,administrative,m,26 to 35,Graduate,11 to 50,5 to 10,yes,5,5,4,5,4,2,5,5,3,5,4,4,4,4,5,1,3,4,2,6,5,2,4,3,4
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,36 to 45,Above Graduate,101 to 500,5 to 10,yes,3,4,2,4,2,2,4,4,2,4,5,3,5,3,4,2,1,6,3,5,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,36 to 45,Graduate,51 to 100,5 to 10,no,5,4,4,5,1,3,3,3,4,4,5,3,4,2,5,3,1,4,2,6,3,1,5,4,2
+,m,,Public Servent,SLC,yes,yes,administrative,m,46 to 55,SLC,11 to 50,2 to 5 ,no,1,4,1,5,2,2,3,5,4,4,5,5,4,5,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,51 to 100,2 to 5 ,yes,3,4,3,5,4,2,3,5,4,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,Graduate,yes,no,medical,m,26 to 35,Graduate,51 to 100,1 to 2,yes,5,4,4,3,3,2,4,5,2,4,5,3,4,3,5,3,2,4,1,6,1,2,4,3,5
+,m,,Public Servent,below SLC,yes,no,administrative,m,36 to 45,below SLC,11 to 50,1 to 2,no,2,1,1,2,1,2,4,5,2,1,5,2,4,3,4,1,3,2,5,6,3,1,5,4,2
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,51 to 100,2 to 5 ,yes,3,5,4,4,3,nan,2,5,2,4,4,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,intermediate,yes,no,medical,f,26 to 35,intermediate,11 to 50,2 to 5 ,no,3,3,3,5,3,4,4,5,4,3,3,2,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,no,no,other,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,36 to 45,Graduate,51 to 100,1 to 2,yes,5,5,4,5,4,2,5,3,1,5,5,3,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,Above Graduate,yes,no,administrative,f,36 to 45,Above Graduate,11 to 50,2 to 5 ,no,3,4,4,4,1,2,3,5,2,4,4,2,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,yes,administrative,m,46 to 55,Graduate,51 TO 100,1 to 2,yes,5,4,3,5,3,1,3,2,4,4,5,3,3,3,2,3,3,4,3,6,1,2,4,3,5
+,f,,Public Servent,Above Graduate,no,no,administrative,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,5,5,5,1,2,3,2,2,5,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,intermediate,yes,no,Education,m,26 to 35,intermediate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,yes,no,administrative,f,46 to 55,Graduate,51 to 100,2 to 5 ,no,5,5,4,3,1,1,2,4,4,4,3,4,4,4,5,1,3,4,2,6,3,1,5,4,2
+,f,,Public Servent,Above Graduate,yes,yes,administrative,f,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,5,5,2,4,3,2,2,2,1,4,5,3,2,3,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,intermediate,yes,no,administrative,m,26 to 35,intermediate,11 to 50,2 to 5 ,no,5,4,4,3,3,2,4,5,2,4,5,3,5,3,5,3,2,6,2,4,2,1,4,5,3
+,m,,Public Servent,Graduate,no,no,administrative,m,36 to 45,Graduate,11 to 50,1 to 2,yes,3,5,4,4,3,2,2,5,2,4,4,3,2,2,4,1,3,5,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,36 to 45,Above Graduate,51 to 100,1 to 2,yes,3,3,3,5,3,4,4,5,4,3,3,2,5,3,5,3,2,6,2,4,2,1,4,5,3
+,f,,Public Servent,Graduate,yes,no,administrative,f,46 to 55,Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,4,2,4,2,2,5,5,1,2,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,yes,other,m,26 to 35,Above Graduate,51 to 100,1 to 2,yes,3,5,4,5,2,2,4,2,2,5,4,5,4,2,4,1,2,6,3,5,1,2,3,4,5
+,f,,Public Servent,Above Graduate,no,no,administrative,f,26 to 35,Above Graduate,11 to 50,5 to 10,yes,3,4,3,5,4,2,3,5,4,4,5,3,2,3,5,3,3,4,2,6,4,2,1,3,5
+,m,,Public Servent,Graduate,yes,no,administrative,m,36 to 45,Graduate,51 to 100,2 to 5 ,no,2,1,1,2,1,2,4,5,2,1,5,2,3,3,5,1,3,4,2,6,1,2,4,3,5
+,m,,Public Servent,Above Graduate,yes,no,administrative,m,26 to 35,Above Graduate,11 to 50,2 to 5 ,yes,3,4,2,4,2,2,4,4,2,4,5,3,2,2,4,1,3,6,2,5,5,2,4,3,4
+,m,,Public Servent,intermediate,yes,yes,administrative,m,36 to 45,intermediate,51 to 100,5 to 10,yes,5,4,4,5,1,nan,3,3,4,4,5,3,5,1,2,3,4,5,6,1,2,3,1,5,4
+,m,,Public Servent,Graduate,yes,no,administrative,m,26 to 35,Graduate,11 to 50,2 to 5 ,yes,5,5,4,5,4,2,5,5,3,5,4,4,3,3,4,1,3,5,2,6,1,2,4,3,5
+,f,,Public Servent,Graduate,no,no,administrative,f,26 to 35,Graduate,51 TO 100,1 to 2,yes,3,4,2,4,2,2,4,4,2,4,5,3,4,4,5,1,3,4,2,6,3,1,5,4,2
+,m,,Public Servent,Above Graduate,yes,yes,administrative,m,36 to 45,Above Graduate,11 to 50,2 to 5 ,yes,5,5,1,5,4,2,3,5,2,4,4,3,3,3,4,1,3,5,2,6,1,2,4,3,5
